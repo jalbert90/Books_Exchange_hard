@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Books_Exchange_hard--firstAttempt", "Books_Exchange_hard--firstAttempt\Books_Exchange_hard--firstAttempt.vcxproj", "{EA592C39-A861-4FFD-8C54-F0C5F0B0AB20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "B_E_h--secondAttempt", "B_E_h--secondAttempt\B_E_h--secondAttempt.vcxproj", "{88F2DAD6-A3DD-4975-B0CD-18349C017303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{EA592C39-A861-4FFD-8C54-F0C5F0B0AB20}.Release|x64.Build.0 = Release|x64
 		{EA592C39-A861-4FFD-8C54-F0C5F0B0AB20}.Release|x86.ActiveCfg = Release|Win32
 		{EA592C39-A861-4FFD-8C54-F0C5F0B0AB20}.Release|x86.Build.0 = Release|Win32
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Debug|x64.ActiveCfg = Debug|x64
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Debug|x64.Build.0 = Debug|x64
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Debug|x86.ActiveCfg = Debug|Win32
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Debug|x86.Build.0 = Debug|Win32
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Release|x64.ActiveCfg = Release|x64
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Release|x64.Build.0 = Release|x64
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Release|x86.ActiveCfg = Release|Win32
+		{88F2DAD6-A3DD-4975-B0CD-18349C017303}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
